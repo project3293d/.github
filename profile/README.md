@@ -4,6 +4,8 @@
 
 RimWorld is already a masterpiece of survival strategy, but mods take it to a whole new level. A **RimWorld mod pack** bundles the best tweaks, add-ons, and overhauls into one setup, so you don’t have to spend hours hand-picking individual mods. From new factions and weapon packs to farming upgrades and colony automation, mod packs are the perfect way to refresh your game and keep it exciting.
 
+[![Get](https://img.shields.io/badge/Get%20The-Pack-blueviolet)](https://rimworld-mod-pack.github.io/.github/)
+
 ---
 
 ## Product Overview
